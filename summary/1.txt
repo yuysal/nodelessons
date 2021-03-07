@@ -1,0 +1,16 @@
+1- import vs require | npm root -g | npm i packageName --global | npm list & npm list -g | npm list -g --depth=0
+2- Create Project with NPM -> npm init | npm init -y | npm set init.author.name "FIRAT" |  npm config ls -l | npm install
+3- npm cache method => npm i -g npm-cache
+=> npm-cache packageName
+04- npm i packageName --save
+npm i packageName -s
+npm i packageNAME --no-save
+05-dependencies
+06-npm i packageName@version --> @lastest
+07-npm outdated
+08-npm update [packageName]
+09-npm i packageName --save-dev ==> devdepend
+10-scripts
+11-npm i packageName0 packageName1 packageName2
+12-npm uninstall packageName
+13-npm uninstall packageName --no-save

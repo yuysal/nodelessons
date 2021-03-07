@@ -1,0 +1,6 @@
+02/11 A.Summary
+02/11 B.Http Server (createServer & listen)
+CTLR+C => CMD+C
+02/11 C.Nodemon
+02/11 D.Serve a http file
+

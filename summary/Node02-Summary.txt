@@ -1,0 +1,8 @@
+1- Event Based - Thread Based | Helloworld.js
+2- Npm Intellisense | ESLint (Dirk Baeumer) | REST Client | Node Debug
+3- LTS-Current Versions | Install NodeJS
+4- Callback Functions & CallBack Hell |Promise
+5- NPM Nedir? | Paket Nedir? | npm i xxxx | require
+
+https://maxchadwick.xyz/blog/a-look-at-auto-updating-in-oh-my-zsh
+
